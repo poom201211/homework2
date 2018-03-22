@@ -1,7 +1,7 @@
 # homework2
 ###### by Thanapoom Rattanathumawat
 
-##public static long fibonacci(int n) {
+public static long fibonacci(int n) {
  // the base case
  if (n < 2) return 1;
  // the recursive step
